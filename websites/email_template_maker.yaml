@@ -1,0 +1,12 @@
+id: QmS7v3MDitKb2ZyWp6fQBwTZk3jHTUC6DwZ6Q2iydvZojg
+description: ""
+tags: []
+domains:
+    - GeneratedDomain
+source:
+    paths:
+        - /
+    branch: main
+    github:
+        id: 1089886496
+        fullname: ghir-hak/tb_website_email_template_maker
